@@ -18,15 +18,15 @@ def fibs_rec (num)
 	array << array[num-2]+array[num-3]
 end
 
-puts fibs(0).inspect
-puts fibs(1).inspect
-puts fibs(2).inspect
-puts fibs(3).inspect
-puts fibs(4).inspect
-puts fibs(13).inspect
-puts fibs_rec(0).inspect
-puts fibs_rec(1).inspect
-puts fibs_rec(2).inspect
-puts fibs_rec(3).inspect
-puts fibs_rec(4).inspect
-puts fibs_rec(13).inspect
+# puts fibs(0).inspect
+# puts fibs(1).inspect
+# puts fibs(2).inspect
+# puts fibs(3).inspect
+# puts fibs(4).inspect
+# puts fibs(13).inspect
+# puts fibs_rec(0).inspect
+# puts fibs_rec(1).inspect
+# puts fibs_rec(2).inspect
+# puts fibs_rec(3).inspect
+# puts fibs_rec(4).inspect
+# puts fibs_rec(13).inspect
